@@ -5,15 +5,14 @@
 ## I'm a Computer Science and Engineering Student 
 
 - 👨‍:iphone: I love to develop mobile applications using flutter and kotlin.
-- 📚 I’m currently learning everything MERN stack 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
 ---
 ### Contact with me 📝
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Siddhant356&repo=Siddhant356&countColorcountColor&countColor=%237B1E7B" />
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=vanshbhasin157&repo=vanshbhasin157&countColorcountColor&countColor=%237B1E7B" />
 
-[<img align="left" alt="Siddhant356 | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
+[<img align="left" alt="vanshbhasin157 | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
 
 
 <br />
@@ -45,7 +44,7 @@
   
   <div align="center"> 
      <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Siddhant356&show_icons=true&count_private=true&theme=react&line_height=40" />
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vanshbhasin157&show_icons=true&count_private=true&theme=react&line_height=40" />
     </a>
 </div
 
@@ -57,4 +56,4 @@
 Show some ❤️ by starring some of the repositories!
 </p>
 
-[linkedin]: https://www.linkedin.com/in/siddhant-shukla-dev/
+[linkedin]: https://www.linkedin.com/in/vanshbhasin157/
